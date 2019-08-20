@@ -1,0 +1,10 @@
+﻿{
+    "Name": "StardewMods",
+    "Author": "Dan Paddock",
+    "Version": "1.0.0",
+    "Description": "Example Description",
+    "UniqueID": "DanPaddock.StardewMods",
+    "EntryDll": "StardewMods.dll",
+    "MinimumApiVersion": "2.10.0",
+    "UpdateKeys": []
+}

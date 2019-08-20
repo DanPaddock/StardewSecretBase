@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StardewMods/SBLoveShovel.cs">
+    <Files>
+      <File FileName="StardewMods/ModEntry.cs" Line="14" Column="10" />
+      <File FileName="StardewMods/EmptyJSONFile.json" Line="6" Column="40" />
+      <File FileName="StardewMods/SBLoveShovel.css" Line="3" Column="1" />
+      <File FileName="StardewMods/EmptyClass.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StardewMods" expanded="True">
+            <Node name="SecretBase" expanded="True">
+              <Node name="SBLoveShovel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
